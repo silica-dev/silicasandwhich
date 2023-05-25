@@ -9,6 +9,7 @@
 - Unity and C#
 - Lua scripting
 - linux
+- Rust
 
 ### Projects
 - FRC Team 3487's robot code
