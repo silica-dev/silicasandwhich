@@ -16,3 +16,7 @@
 - REVDigitMXPDisplay: Java bindings to control the REV Digit MXP Display with WPILib.
 - silicon cursors: a cursor set designed to be colorful and flat. I think I broke it with my last few commits, and I got really mad the last time I tried working on it, so it's in limbo for now.
 - bibata cursor translucent: a translucent varient of the popular bibata cursor theme. includes windows and linux functionality.
+
+### Contact
+- Just leave an issue on a repo if it's related to that.
+- otherwise, in case you *really* need it, <a rel="me" href="https://tech.lgbt/@silicasandwhich">Mastodon</a>
